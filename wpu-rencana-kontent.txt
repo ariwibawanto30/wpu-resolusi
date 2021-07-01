@@ -1,5 +1,5 @@
 rencana kontent
 - javascript
 - php laravel
-- HTML
-- CSS
+- react js
+- node js
