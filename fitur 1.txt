@@ -2,3 +2,5 @@ belar php
 - php codigniter 
 - php laravel 
 - javascript
+- phyton
+- react js
