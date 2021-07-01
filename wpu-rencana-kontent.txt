@@ -1,4 +1,5 @@
 rencana kontent
 - javascript
-- php framework
-- laravel
+- php laravel
+- react js
+- node js
